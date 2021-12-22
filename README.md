@@ -1,4 +1,4 @@
-Please edit/add entries, ideally in alphabetical order. For citations, I used the google scholar cite -> MLA -> title omitted. 
+Please edit/add entries, ideally in alphabetical order. For citations, I used google scholar cite, copied and pasted MLA, then deleted the title. 
 
 | Name/link   | One-sentence description | Lead developer/s | Citation (MLA) | 
 | :---    | :---------               | :----            | :----    |
