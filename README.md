@@ -1,6 +1,3 @@
-# Software Catalogue
-A site dedicated to listing software designed for malaria statistical genetics.
-
 Please edit/add entries, ideally in alphabetical order. For citations, I used the google scholar cite -> MLA -> title omitted. 
 
 | Name/link   | One-sentence description | Lead developer/s | Citation (MLA) | 
