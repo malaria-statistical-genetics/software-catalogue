@@ -10,7 +10,7 @@ Please edit/add entries, ideally in alphabetical order. For citations, I used go
 | [HMMERTIME](https://github.com/nickbrazeau/HMMERTIME) || Nicholas Brazaeu ||
 | [hmmIBD](https://github.com/glipsnort/hmmIBD) | Infer segments of identity-by-descent and relatedness between intra- and interpopulation monoclonal sample pairs | Stephen Schaffner | Schaffner, Stephen F., et al. Malaria journal 17.1 (2018): 1-4.| 
 | [isoRelate](https://github.com/bahlolab/isoRelate)| Infer segments of identity-by-descent and relatedness between intrapopulation pairs of mono- and biclonal samples | Lyndal Henden | Henden, Lyndal, et al. PLoS genetics 14.5 (2018): e1007279. |
-| [MALECOT](https://github.com/bobverity/MALECOT) | Estimate sample-level MOIs and population-level allele frequencies using bi-allelic SNP data (as in The ReaLMcCOIL), while also doing population assignment (as in STRUCTURE) | Robert Verity ||
+| [MALECOT](https://github.com/bobverity/MALECOT) | Estimate sample-level MOIs and population-level allele frequencies using bi-allelic SNP data (as in TheReaLMcCOIL), while also doing population assignment (as in STRUCTURE) | Robert Verity ||
 | [McCOILR](https://github.com/OJWatson/McCOILR) || Oliver Watson ||
 | [moimix](https://github.com/bahlolab/moimix) | An R package for sample-level MOI estimation using read count data, prinically written as an interface to flexmix::initFlexmix, which can be used to estimate an MOI as the number of components of a binomial mixture model, but can also be used to compute FWS, and prepare data for MOI estimation using COIL | Stuart Lee ||
 | [moire](https://github.com/m-murphy/moire) || Maxwell Murphy | |
