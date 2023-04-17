@@ -2,9 +2,10 @@ Please edit/add entries, ideally in alphabetical order. For citations, I used go
 
 | Name/link   | One-sentence description | Lead developer/s | Citation (MLA) | 
 | :---    | :---------               | :----            | :----    |
-| [dcifer](https://github.com/innager/dcifer) || Inna Gerlovina ||
+| [dcifer](https://github.com/innager/dcifer) | Estimate relatedness between multiclonal samples | Inna Gerlovina | Gerlovina, Inna, et al. Genetics 222.2 (2022): iyac126.|
 | [DEploid](https://github.com/DEploid-dev/DEploid) || Joe Zhu | Zhu, Sha Joe, Jacob Almagro-Garcia, and Gil McVean. Bioinformatics 34.1 (2018): 9-15.|
 | [coiaf](https://github.com/bailey-lab/coiaf) | Estimate sample-level MOIs using bi-allelic SNP data | Aris Paschalidis and Oliver Watson | Paschalidis, Aris, et al. bioRxiv (2022): 2022-05. |
+| [COIL](https://github.com/kgalinsky/COIL) | Estimate sample-level MOIs using bi-allelic SNP data | Kevin Galinsky | Galinsky, Kevin, et al. Malaria journal 14.1 (2015): 1-9.|
 | [FreqEstimationModel](https://github.com/aimeertaylor/FreqEstimationModel) | Infer MOIs and multi-SNP genotype frequencies from SNP-wise prevalence data on multiclonal samples | Aimee Taylor | Taylor, Aimee. Diss. University of Oxford, 2016; Taylor, Aimee R., et al. Malaria journal 13.1 (2014): 1-11.| 
 | [fwd-dream](https://github.com/JasonAHendry/fwd-dream) ||Jason Hendry | Hendry, Jason A., Dominic Kwiatkowski, and Gil McVean. PLoS computational biology 17.8 (2021): e1009287.|
 | Hapster ||Curt Hansen| Hansen, Curt. Diss. UC Berkeley, 2015.|
