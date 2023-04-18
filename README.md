@@ -1,6 +1,6 @@
 Please edit/add entries, ideally in alphabetical order. For citations, I used google scholar cite, copied and pasted MLA, then deleted the title. 
 
-| Name/link   | One-sentence description | Lead developer/s | Citation (MLA) | 
+| Name/link   | One-sentence description | Lead developer/s | Citation (MLA) if available | 
 | :---    | :---------               | :----            | :----    |
 
 | [coiaf](https://github.com/bailey-lab/coiaf) | Estimate sample-level MOIs using bi-allelic SNP data | Aris Paschalidis and Oliver Watson | Paschalidis, Aris, et al. bioRxiv (2022): 2022-05. |
@@ -33,7 +33,7 @@ Please edit/add entries, ideally in alphabetical order. For citations, I used go
 
 | [moire](https://github.com/m-murphy/moire) | Estimate sample-level MOIs and population-level allele frequencies using data on multi-allelic markers| Maxwell Murphy | |
 
-| [MultiLociBiallelicModel](https://github.com/Maths-against-Malaria/MultiLociBiallelicModel) | Estimate population-level frequencies and prevalences of haplotype/genotypes spanning bi-allelic SNPs, and, based on the same SNPs, estimate the population-average MOI | | Tsoungui Obama, Henri Christian Junior, and Kristan Alexander Schneider. "A maximum-likelihood method to estimate haplotype frequencies and prevalence alongside multiplicity of infection from SNP data." Frontiers in Epidemiology (2022): 34.|
+
 
 | [paneljudge](https://github.com/aimeertaylor/paneljudge) | Estimate and simulate relatedness with uncertainty between intrapopulation monoclonal sample pairs   | Aimee Taylor | LaVerriere, Emily, et al. medRxiv (2021).| 
 
